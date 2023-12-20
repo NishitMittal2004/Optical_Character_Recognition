@@ -5,4 +5,4 @@
 
 ---
 
-![Diagram]()
+![Diagram](Adhaar_Example.jpeg)
